@@ -1,6 +1,6 @@
 Hi, I’m @sandunjeewantha,
-Im Undergraduate student in software engineering
-Im a Software QA Engineer 
+IUndergraduate student in software engineering
+Software QA Engineer 
 
 
 
