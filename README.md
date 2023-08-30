@@ -1,5 +1,5 @@
 Hi, I’m @sandunjeewantha,
-IUndergraduate student in software engineering
+Undergraduate Student
 Software QA Engineer 
 
 
