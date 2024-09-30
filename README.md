@@ -1,5 +1,5 @@
 Hi, I’m @sandunjeewantha,
-Msc(Reading)|Bsc 
+Msc(Reading)|Bsc ,
 Software QA Engineer 
 
 
